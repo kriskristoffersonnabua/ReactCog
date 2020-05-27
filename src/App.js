@@ -5,7 +5,7 @@ import Switch from './components/Switch';
 import styled, { css } from 'styled-components';
 
 const ReactLogo = styled.img`
-    height: 40vmin;
+    height: 40vmax;
     pointer-events: none;
 
     @keyframes App-logo-spin {
